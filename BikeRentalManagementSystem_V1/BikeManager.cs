@@ -53,7 +53,8 @@ namespace BikeRentalManagementSystem_V1
                 }
             }
         }
-        public void DeleteBikes(string bikeId) {
+        public void DeleteBikes(string bikeId)
+        {
             var bike = bikes.FirstOrDefault(b => b.BikeId == bikeId);
             if (bike != null)
             {
@@ -64,9 +65,9 @@ namespace BikeRentalManagementSystem_V1
             {
                 Console.WriteLine("Not Available");
             }
-                
-        }
-    }
+
+
+        }        }
 }
 
 

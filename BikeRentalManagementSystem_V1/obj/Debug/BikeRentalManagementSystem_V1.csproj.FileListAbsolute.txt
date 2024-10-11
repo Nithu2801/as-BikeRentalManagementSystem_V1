@@ -1,0 +1,2 @@
+C:\Users\UT01594\Desktop\ms2\BikeRentalManagementSystem_V1\BikeRentalManagementSystem_V1\obj\Debug\BikeRentalManagementSystem_V1.csproj.AssemblyReference.cache
+C:\Users\UT01594\Desktop\ms2\BikeRentalManagementSystem_V1\BikeRentalManagementSystem_V1\obj\Debug\BikeRentalManagementSystem_V1.csproj.CoreCompileInputs.cache

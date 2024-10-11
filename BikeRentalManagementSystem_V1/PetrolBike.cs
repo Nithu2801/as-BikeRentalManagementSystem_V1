@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace BikeRentalManagementSystem_V1
 {
-    internal class PetrolBike:Bike
-    {
+    internal class PetrolBike
+    {public int FuelTankCapacity { get; set;}
+        public int EngineCapacity {  get; set;}
+
 
     }
 }

@@ -67,7 +67,8 @@ namespace BikeRentalManagementSystem_V1
             }
 
 
-        }        }
+        }     
+    public void ValidteBikeRental}
 }
 
 

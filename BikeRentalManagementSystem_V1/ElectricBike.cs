@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace BikeRentalManagementSystem_V1
 {
-    internal class ElectricBike:Bike
-    {
+    internal class ElectricBike
+    {public int BatteryCapacity { get; set;}
+        public int MotorPower {  get; set;}
     }
+    
 }

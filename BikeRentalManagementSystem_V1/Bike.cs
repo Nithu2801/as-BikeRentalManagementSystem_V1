@@ -24,5 +24,6 @@ namespace BikeRentalManagementSystem_V1
         {
             return $"bikeid:{BikeId},brand:{Brand},model:{Model},rentalprice:{RentalPrice}";
         }
+        
     }
 }

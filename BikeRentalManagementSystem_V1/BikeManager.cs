@@ -67,8 +67,16 @@ namespace BikeRentalManagementSystem_V1
             }
 
 
-        }     
-    public void ValidteBikeRental}
+        }
+        public override ValidteBikeRentalPrice(Bike bike)
+        {
+            while (RentalPrice <= 0)
+            {
+                Console.WriteLine("minus price");
+            }
+
+        }
+    }
 }
 
 
